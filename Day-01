@@ -1,0 +1,33 @@
+1) what is data ?
+    "Data is a raw facts which describe the attributes of an entities"
+
+
+2) what is Database?
+    "Database is a place or medium in which we store the data in a systematic and organized manner"
+
+
+3) Basic operations that can be performed on a database
+
+    - Create 
+    - Retrieve
+    - Update 
+    - Delete
+" Called as CRUD operations"
+
+4) Database Management system(DBMS):
+    " It is a software which is used to maintain and manage the database"
+- Security and Authorization are the two important features DBMS provides.
+- We use query language to communicate with DBMS.
+- DBMS sores the data in the form of files.
+
+5) RELATIONAL  Database Management system(RDBMS):
+    " It is a type of DBMS software in which we store the data in the form of tables"
+
+- SQL to communicate with RDBMS
+
+DB client : Db client is interface the communicate with database object .
+DB server : DB server is storage area used to store the database objects.
+
+
+6) STRUCTURED QUERY LANGUAGE(SQL):
+    " It is language used to communicate with the database objects"
